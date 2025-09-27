@@ -23,33 +23,15 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
-name: Ashish Rai
-located_in: Gurgaon , Haryana , India
-current_job: Software Engineer Backend
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Computer Science Engineering",
-  ]
-company: Antino Labs
 
-fields_of_interests:
-  [
-    "Backend Developement",
-    "Artificial Inteligence",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and Terraform"]
-hobbies: ["Muscle Building", "Biography Watching", "Historical Books Reading", "Art", "Comedy"]
-```
+I'm a **Software Engineer** & **Learner** specializing in **Development and DevOps** from 🇮🇳 India, with **3+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+
+- 🔭 Currently working at **Antino Labs** as NodeJs Developer
+- 🌱 Always learning about **emerging technologies** and **best practices**
+- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
+- 💬 Ask me about **Javascript, Cloud Architecture, DevOps, and Backend Engineering**
+- ⚡ Fun fact: I love sharing knowledge through 
+
   
 ---  
   
