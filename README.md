@@ -16,18 +16,40 @@
 
 <p align="center">
 
+<!-- Gmail -->
+<a href="mailto:ashishrai8880@gmail.com">
+  <img height="45"  style="margin: 0 10px;" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+</a>
+
+<!-- Phone -->
+<a href="tel:+919650639096">
+  <img height="45"  style="margin: 0 10px;" src="https://cdn-icons-png.flaticon.com/512/597/597177.png"/>
+</a>
+
+<!-- Resume -->
+<a href="https://github.com/ashishrai8880/Resume/blob/main/Ashish_Resume.pdf">
+  <img height="45" style="margin: 0 10px;"  src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png"/>
+</a> 
+
 <a href="https://www.linkedin.com/in/ashishrai8880/">
-  <img height="45" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  <img height="45"  style="margin: 0 10px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 
 <a href="https://www.instagram.com/ashishrai8880/">
-  <img height="45" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
+  <img height="45"  style="margin: 0 10px;" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
 </a>
 
 <a href="https://leetcode.com/ashishrai8880/">
-  <img height="45" src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"/>
+  <img height="45"  style="margin: 0 10px;" src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png"/>
 </a>
 
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/ashishrai8880/Resume/blob/main/Ashish_Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
