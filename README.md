@@ -43,6 +43,26 @@
 
 ---
 
+## 🔥 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ashishrai8880?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishrai8880&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrai8880&theme=tokyonight" />
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🚀 Backend & Programming
@@ -71,26 +91,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
-</p>
-
----
-
-## 🔥 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ashishrai8880?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishrai8880&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrai8880&theme=tokyonight" />
 </p>
 
 ---
